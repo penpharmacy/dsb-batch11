@@ -1,7 +1,4 @@
-income <- 50000
-expense <- 35000
-saving <- income - expense
-annual_saving <- saving * 12
-print(saving)
-print(annual_saving)
+hello <- function() {
+print("saving")
+}
 
